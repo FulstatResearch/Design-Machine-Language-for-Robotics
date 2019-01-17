@@ -6,6 +6,7 @@
 ## Bản chất của HDL (Hardware Description Language)
 ## Bản chất của các loại không gian
 ## Bản chất của động cơ
+## Thiết kế mã máy trong công nghiệp
 ## Thiết kế HDL (Hardware Description Language)
 ## Viết HDL cho mạch thiết kế
 ## Viết HDL cho phần cứng
