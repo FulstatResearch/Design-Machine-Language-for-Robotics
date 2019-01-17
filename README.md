@@ -7,8 +7,8 @@
 ## Bản chất của các loại không gian
 ## Bản chất của động cơ
 ## Thiết kế HDL (Hardware Description Language)
-## HDL cho mạch thiết kế
-## HDL cho phần cứng
+## Viết HDL cho mạch thiết kế
+## Viết HDL cho phần cứng
 ## Thiết kế Driver cho mạch
 ## Thiết kế ECU điều khiển hệ thống điện
 ## Graphics Development
